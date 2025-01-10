@@ -1,0 +1,11 @@
+Age,Gender,Region,Population,LiteracyRate,EmploymentStatus
+25,Male,North,5000000,85,Employed
+30,Female,South,4500000,90,Unemployed
+40,Male,West,3000000,80,Employed
+35,Female,East,3500000,75,Employed
+28,Male,North-East,1200000,88,Unemployed
+22,Female,South,4000000,92,Employed
+45,Male,North,6000000,83,Employed
+50,Female,East,2800000,78,Unemployed
+19,Male,West,2500000,89,Unemployed
+60,Female,North-East,1000000,94,Employed
